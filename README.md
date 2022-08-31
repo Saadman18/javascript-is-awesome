@@ -8,6 +8,7 @@
 
 <details> 
           <summary><h6>slice( )</h6></summary>
+          <img width=100% src="/assets/array-slice-method.png">
           
 </details>
 
