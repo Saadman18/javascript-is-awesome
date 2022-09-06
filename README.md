@@ -12,6 +12,12 @@
           
 </details>
 
+<details> 
+          <summary><h6>map( )</h6></summary>
+          <img width=100% src="/assets/Array.map().png">
+          
+</details>
+
 
 
 <h5> Objects {key : value} </h5>
